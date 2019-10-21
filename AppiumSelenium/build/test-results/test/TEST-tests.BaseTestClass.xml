@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.BaseTestClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-17T20:55:03" hostname="JDBARRA-YOGA" time="32.409">
+  <properties/>
+  <testcase name="test" classname="tests.BaseTestClass" time="32.409"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct 17, 2019 5:55:33 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
