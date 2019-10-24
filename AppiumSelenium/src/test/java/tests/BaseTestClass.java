@@ -54,6 +54,15 @@ public class BaseTestClass {
     }
 
 
+    @Test
+    public void testNueva() {
+        HomeApp homeApp = new HomeApp(driver);
+
+        homeApp.buscar(nombre);
+        homeApp.resultadoBusqueda("Nadia Patten");
+    }
+
+
     @After
     public void tearDown() {
         // driver.quit();

@@ -4,6 +4,7 @@
     <bytecodeTargetLevel>
       <module name="AppiumSelenium.main" target="1.8" />
       <module name="AppiumSelenium.test" target="1.8" />
+      <module name="Curso-Appium.AppiumSelenium.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
@@ -30,11 +31,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppiumSelenium.iml" filepath="$PROJECT_DIR$/AppiumSelenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppiumSelenium.main.iml" filepath="$PROJECT_DIR$/AppiumSelenium.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/AppiumSelenium.test.iml" filepath="$PROJECT_DIR$/AppiumSelenium.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Appium.AppiumSelenium.test.iml" filepath="$PROJECT_DIR$/Curso-Appium.AppiumSelenium.test.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8.0_211" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Gradle: cglib:cglib:3.2.8">
