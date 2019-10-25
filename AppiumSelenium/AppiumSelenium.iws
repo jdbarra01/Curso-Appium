@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3936be-d573-4182-bef9-ec285be664c9" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomeApp.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/AppiumSelenium.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumSelenium.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumSelenium.iws" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumSelenium.iws" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -28,6 +33,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomeApp.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="227">
               <caret line="48" column="1" selection-start-line="48" selection-end-line="49" />
               <folding>
@@ -37,6 +43,10 @@
                 <element signature="e#739#740#0" expanded="true" />
                 <element signature="e#782#783#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="189">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -53,8 +63,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/BaseTestClass.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="-384">
               <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+=======
+            <state relative-caret-position="119">
+              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,7 +103,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="4760">
+=======
+            <state relative-caret-position="4726">
+>>>>>>> Stashed changes
               <caret line="332" selection-start-line="332" selection-end-line="332" />
               <folding>
                 <element signature="e#2922#2923#0" expanded="true" />
@@ -118,11 +137,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+<<<<<<< Updated upstream
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="master" />
       </map>
     </option>
+=======
+>>>>>>> Stashed changes
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -146,7 +168,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
       <pane id="PackagesPane" />
+=======
+>>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,7 +181,11 @@
             </path>
             <path>
               <item name="AppiumSelenium" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< Updated upstream
               <item name="AppiumSelenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="AppiumSelenium" type="462c0819:PsiDirectoryNode" />
+>>>>>>> Stashed changes
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,6 +209,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< Updated upstream
             <path>
               <item name="AppiumSelenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="AppiumSelenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -188,16 +218,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> Stashed changes
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+<<<<<<< Updated upstream
+=======
+      <pane id="PackagesPane" />
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/APPIUM/appium-aut-inversiones" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> Stashed changes
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -331,7 +371,11 @@
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
+<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33224222" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3289689" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.61865795" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.14566284" />
@@ -491,7 +535,11 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="4760">
+=======
+        <state relative-caret-position="4726">
+>>>>>>> Stashed changes
           <caret line="332" selection-start-line="332" selection-end-line="332" />
           <folding>
             <element signature="e#2922#2923#0" expanded="true" />
@@ -507,6 +555,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/AppiumSelenium.iws">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -514,6 +563,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-384">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/BaseTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -522,6 +577,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomeApp.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="227">
           <caret line="48" column="1" selection-start-line="48" selection-end-line="49" />
           <folding>
@@ -531,6 +587,10 @@
             <element signature="e#739#740#0" expanded="true" />
             <element signature="e#782#783#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="189">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
