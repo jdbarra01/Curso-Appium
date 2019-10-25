@@ -7,6 +7,8 @@ import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 import org.junit.Assert;
 import org.openqa.selenium.support.PageFactory;
 
+import java.util.List;
+
 
 public class HomeApp {
 
@@ -22,6 +24,8 @@ public class HomeApp {
     @AndroidFindBy(id = "name")
     private MobileElement nombreBusccar;
 
+    @AndroidFindBy(id = "result_list")
+    private List<MobileElement> elementosSelector;
 
     public void buscar(String name) {
         buscarNombre.sendKeys(name);
@@ -30,4 +34,18 @@ public class HomeApp {
     public void resultadoBusqueda(String resultadoValor) {
         Assert.assertEquals(resultadoValor, nombreBusccar.getText());
     }
+
+    public void validar(String valor) {
+        boolean seleccionado = false;
+        for (int i = 0; i < 4; i++) {
+            if (elementosSelector.get(i).getText().equals(valor)) {
+                seleccionado = true;
+            }
+        }
+
+    }
+
+
 }
+
+
